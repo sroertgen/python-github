@@ -7833,12 +7833,13 @@ auf die Lehrkrfat sind Aspekte der Motivation, der Förderung von Entwicklung  u
 <47ce4897-8d87-4a6b-9413-34b6fbffc3e5> a skos:Concept ;
     skos:broader <d4280d4a-6cf7-4afc-8d14-4f2118cb4a5f> ;
     skos:inScheme <5e40e372-735c-4b17-bbf7-e827a5702b57> ;
-    skos:prefLabel "Michael Walzers Theorie"@de ;
+    skos:prefLabel "Michael Walzer: Politische Philosophie in den Vereinigten Staaten."@de ;
     skos:relatedMatch <http://w3id.org/openeduhub/vocabs/discipline/160>,
         <http://w3id.org/openeduhub/vocabs/discipline/450> ;
-    sdo:keywords "Gleichheit"@de,
+    sdo:keywords "Gerechtigkeit"@de,
+        "Gleichheit"@de,
+        "Krieg"@de,
         "Verteilungssphären"@de,
-        "Walzer"@de,
         "komplexe Gleichheit"@de .
 
 <47e6b1d9-8bb6-411c-be11-ece5736c739a> a skos:Concept ;
